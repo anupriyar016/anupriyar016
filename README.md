@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anupriya R
-- 👀 I’m interested in Backend Development, API development, Microservice Architecture
-- 🌱 I’m currently learning Front end Development - React
-- 💞️ I’m looking to collaborate on Anything that involves Problem Solving
+- 👀 I’m interested in Data Engineering, API development, Wrangling with Data
+- 🌱 I’m currently Data Warehousing, Data Modelling, 
+- 💞️ I’m looking to collaborate on Anything that involves Problem Solving and Data
 - 📫 Reach me through anupriyarangaraj16@gmail.com
